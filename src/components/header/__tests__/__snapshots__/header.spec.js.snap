@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Test Cases should match snapshot renderer 1`] = `
+<header
+  className="header"
+  data-test="headerComponent"
+>
+  <div
+    className="headingContainer"
+  >
+    <img
+      alt=""
+      src={null}
+    />
+    <div
+      className="headingContent"
+    >
+      Star Wars Character Search
+    </div>
+  </div>
+</header>
+`;

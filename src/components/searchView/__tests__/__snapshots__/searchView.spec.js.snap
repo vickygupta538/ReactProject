@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchView Component Test Cases should match snapshot renderer 1`] = `
+<section
+  className="searchView"
+  data-test="SearchViewComponent"
+>
+  <div>
+    <strong>
+      Search:
+    </strong>
+  </div>
+  <input
+    className="searchTextBox"
+    onChange={[Function]}
+    type="input"
+  />
+</section>
+`;

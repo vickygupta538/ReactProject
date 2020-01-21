@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResultView Component Test Cases should match snapshot renderer 1`] = `
+<section
+  className="searchResultView"
+  data-test="SearchResultViewComponent"
+>
+  <div>
+    <strong>
+      Characters:
+    </strong>
+  </div>
+  <section
+    className="searchResultItemWrapper"
+    data-test="SearchResultItemComponent"
+    onClick={[Function]}
+  >
+    <button
+      className="searchResultItem"
+    >
+      Luke Skywalker
+    </button>
+  </section>
+</section>
+`;

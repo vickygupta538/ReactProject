@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchWrapper Component Test Cases should match snapshot renderer 1`] = `
+<section
+  className="searchWrapper"
+  data-test="SearchWrapperComponent"
+>
+  <section
+    className="searchContainer"
+    data-test="SearchContainerComponent"
+  >
+    <center>
+      <div>
+        Search for your favourite Star Wars characters in the search box below. Click on their names to find out more information about them.
+      </div>
+      <section
+        className="searchView"
+        data-test="SearchViewComponent"
+      >
+        <div>
+          <strong>
+            Search:
+          </strong>
+        </div>
+        <input
+          className="searchTextBox"
+          onChange={[Function]}
+          type="input"
+        />
+      </section>
+    </center>
+  </section>
+  <section
+    className="searchResultDetailView"
+  />
+</section>
+`;

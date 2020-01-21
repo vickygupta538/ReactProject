@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResultDetailView Component Test Cases should match snapshot renderer 1`] = `
+<section
+  className="searchResultDetailView"
+>
+  <section
+    data-test="SearchResultDetailViewComponent"
+  >
+    <h2>
+      Luke Skywalker
+    </h2>
+    <div
+      className="attributeHeading"
+    >
+      Hair Color
+    </div>
+    <div
+      className="attributeContent"
+    >
+      blond
+    </div>
+    <div
+      className="attributeHeading"
+    >
+      Skin Color
+    </div>
+    <div
+      className="attributeContent"
+    >
+      fair
+    </div>
+    <div
+      className="attributeHeading"
+    >
+      Eye Color
+    </div>
+    <div
+      className="attributeContent"
+    >
+      blue
+    </div>
+    <div
+      className="attributeHeading"
+    >
+      Birth Year
+    </div>
+    <div
+      className="attributeContent"
+    >
+      19BBY
+    </div>
+    <div
+      className="attributeHeading"
+    >
+      Gender
+    </div>
+    <div
+      className="attributeContent"
+    >
+      male
+    </div>
+  </section>
+</section>
+`;

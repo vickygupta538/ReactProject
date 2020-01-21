@@ -1,0 +1,15 @@
+.searchResultDetailView {
+  background-color: #efefef;
+  color: black;
+  flex-basis: 30%;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  padding: 20px;
+  overflow: scroll;
+}
+.attributeHeading {
+  font-weight: bold;
+}
+.attributeContent {
+  margin-left: 35px;
+}

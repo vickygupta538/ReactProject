@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchResultItem Component should match snapshot renderer 1`] = `
+<section
+  className="searchResultItemWrapper"
+  data-test="SearchResultItemComponent"
+  onClick={[Function]}
+>
+  <button
+    className="searchResultItem"
+  >
+    test
+  </button>
+</section>
+`;
